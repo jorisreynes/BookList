@@ -22,10 +22,4 @@ cd bookList
 
 -   Login with "test / test"
 
-The project is also configured with a CI/CD pipeline on Azure, ensuring that each push on GitHub triggers an automatic update of the application in production,
-
-And is available here :
-
-https://thebooklist.azurewebsites.net/index.html
-
 ![Screenshot of bookAPI](Screenshot.jpg)
